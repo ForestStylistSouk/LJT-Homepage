@@ -11,7 +11,7 @@ repository               : "ForestStylistSouk/LJT-Homepage"
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           :
   name             : "Junteng Liu"
   bio              : "First-year Ph.D. candidate at HKUST NLP Group"
   employer         : "HKUST NLP Group"
